@@ -1,0 +1,12 @@
+API - Application Programming Interface
+
+HTTP METHODS:
+GET - Givea the info/ data to the requester or it gets the information from the service.
+POST - Registers the data ro the service
+PUT/PATCH - Update
+DELETE - Deltes information
+
+CRUD
+
+docker-compose build
+docker-compose up 

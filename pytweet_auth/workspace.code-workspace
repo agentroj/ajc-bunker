@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/demo"
+		},
+		{
+			"path": "../../../Documents/flask_test"
+		},
+		{
+			"path": "../../../Documents/Flask_Lesson"
+		},
+		{
+			"path": "../../../Documents/flask1"
+		},
+		{
+			"path": "../../../Documents/hello_flask"
+		},
+		{
+			"path": "../../../Documents/hello_sample"
+		},
+		{
+			"path": "../../../Documents/Exercise1"
+		},
+		{
+			"path": "../../../Documents/flask_sample"
+		},
+		{
+			"path": "../../python_cource_app_3_3_migrate-1.1.1"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../pytweet-master"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/usr/bin/python3"
+	}
+}
